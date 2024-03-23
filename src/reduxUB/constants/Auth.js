@@ -1,0 +1,14 @@
+export const SIGNIN = 'SIGNIN'; 
+export const LOGGEDIN = 'LOGGEDIN';
+export const AUTHENTICATED = 'AUTHENTICATED';
+export const SIGNOUT = 'SIGNOUT';
+export const SIGNOUT_SUCCESS = 'SIGNOUT_SUCCESS'
+export const SIGNUP = 'SIGNUP';
+export const SIGNUP_SUCCESS = 'SIGNUP_SUCCESS'
+export const SHOW_AUTH_MESSAGE = 'SHOW_AUTH_MESSAGE'
+export const HIDE_AUTH_MESSAGE = 'HIDE_AUTH_MESSAGE'
+export const SHOW_SUCCESS_MESSAGE = 'SHOW_SUCCESS_MESSAGE'
+export const HIDE_SUCCESS_MESSAGE = 'HIDE_SUCCESS_MESSAGE'
+export const SHOW_LOADING = 'SHOW_LOADING'
+export const RESET_PASSWORD = 'RESET_PASSWORD'
+export const AUTH_TOKEN = 'auth_token'
